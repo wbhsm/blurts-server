@@ -156,3 +156,4 @@ heroku config:set DEBUG_DUMMY_SMTP=1
 
 And any others, depending on the features you're running on Heroku - e.g.,
 Email or Firefox Accounts.
+#1
